@@ -17,6 +17,7 @@ Manipulation d’images RGB par les opérations suivantes :
 
 
 int main() {
-    printf("test");
+    void* imageRGB ;
+    
     return 0;
 }
